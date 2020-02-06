@@ -1,0 +1,1 @@
+{"id":"f1e64bfe-c23a-48b9-9477-15015f390f5a","name":"Master","description":"wow","kind":"VIRTUAL_ITEM","amount":0,"revealables":[],"unlockables":[],"congratulations":[],"hints":[],"criteria":{"conditions":[{"order":0,"left_entity":"PLAYER","left_property":"p","comparing_function":"IN","right_entity":"EVENT","right_property":"q"}],"junctors":["AND"]}}
